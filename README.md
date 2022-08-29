@@ -67,7 +67,7 @@ Correlation Matrix Heatmap
     Prediction of Trends
     ![image](https://user-images.githubusercontent.com/88525549/187132685-2e4ddeec-5371-42a0-81cb-0bd005364d7f.png)
 
-#Conclusion
+# Conclusion
 
 Sales forecasting is very crucial for every business, especially big ones and this process is very complex because there are lots of factors that should be taken into consideration. In order to implement achievable goals and successfully implement them, supermarkets chains always want to forecast sales. In this Mini Project, we used Machine Learning Algorithms like Linear Regression, Random Forest, XGBoost, CatBoost, LGBM (Light Gradient Boosting Machine), Stochastic Gradient Descent (SGD), LASSO (Least Absolute Shrinkage and Selection Operator) and LSTM(Long Short Term Memory) Recurrent Neural Network for sales forecasting, CatBoost performed better, as it had a higher R2 Score (Coefficient of Determination) and lower root mean squared error than the other models. Also, FBProphet was used for time series sales forecasting and finding trends in the data. The use of regression approaches for sales forecasting can often give us better results compared to time series methods.
 
