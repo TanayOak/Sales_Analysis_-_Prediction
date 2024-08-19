@@ -30,8 +30,7 @@ Steps of Predicting Sales:
 
 ## Import & Load Dataset
 
-Link to the Dataset.csv -> "https://docs.google.com/uc?export=download&id=15GuwyGYyq1mjrYyPVV-j3B9d_Shm3_SI" 
-### {for direct download from drive- https://docs.google.com/uc?export=download&id=}
+Link to the Dataset.csv -> "https://docs.google.com/uc?export=download&id=15GuwyGYyq1mjrYyPVV-j3B9d_Shm3_SI"
 
 ![image](https://user-images.githubusercontent.com/88525549/187131494-fa93cd13-e249-4fa1-8de0-eb4dc42cac60.png)
 
